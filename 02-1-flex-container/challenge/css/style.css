@@ -1,0 +1,13 @@
+.column {
+  padding: 2rem;
+  border: 2px solid black;
+}
+
+.flex-container {
+  display: flex;
+  margin: auto 50px;
+}
+
+.flow-content {
+  width: 100%;
+}
